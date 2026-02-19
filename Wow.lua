@@ -30,7 +30,7 @@ local Mouse = LP:GetMouse()
 --  CONFIG
 -- ──────────────────────────────────────────────────────────────────
 local CONFIG = {
-    AdminList = {"YourUsernameHere"},   -- Add your username here
+    AdminList = {"qwdssssfsdrfasd"},   -- Add your username here
     Prefix    = "/",
     Title     = "ADMIN GUI v2.0",
 }

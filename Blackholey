@@ -5,7 +5,7 @@ attachment2={visible=false;name="Attachment";position={[1]=0.13919901847839355;[
 particle4={lockedtopart=true;acceleration=-0;spreadangle=0;color={[1]=42;[2]=69;[3]=180;};
 rate=7.5;attachmentindex=1;rotspeed="0";transparency="1";orientation="VelocityPerpendicular";lifetime="1";speed="0.003288737265393138";rotation="0,360";size="46.6739501953125,61.62931442260742";texture="rbxassetid://14050423054";};
 color={[1]=0;[2]=0;[3]=0;};
-anchored=false;locked=false;cframe={[1]=99.79949951171875;[2]=10.396064758300781;[3]=162.39340209960938;[4]=1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=1;};
+anchored=true;locked=false;cframe={[1]=99.79949951171875;[2]=10.396064758300781;[3]=162.39340209960938;[4]=1;[5]=0;[6]=0;[7]=0;[8]=1;[9]=0;[10]=0;[11]=0;[12]=1;};
 size={[1]=20.792129516601562;[2]=20.792129516601562;[3]=20.792129516601562;};
 particle6={lockedtopart=true;acceleration=-0;spreadangle=0;color={[1]=255;[2]=87;[3]=87;};
 rate=2.5;attachmentindex=1;rotspeed="0";transparency="1";orientation="VelocityPerpendicular";lifetime="4";speed="0.002329751383513212";rotation="0,360";size="2.486330986022949,74.58992004394531";texture="rbxassetid://14050133507";};
@@ -25,7 +25,7 @@ reflectance=0;shape="Ball";cancollide=true;texture="Neon";};
 reflectance=0;particle2={lockedtopart=true;acceleration=-0;spreadangle=0;color={[1]=255;[2]=100;[3]=28;};
 rate=2.5;rotspeed="0";transparency="1";orientation="FacingCamera";lifetime="1";speed="0";rotation="0";size="2.5990161895751953,7.797048568725586";texture="rbxassetid://14590086212";};
 color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
-anchored=false;particle={lockedtopart=true;acceleration=-1.2995080947875977;spreadangle=0;color={[1]=29;[2]=138;[3]=255;};
+anchored=true;particle={lockedtopart=true;acceleration=-1.2995080947875977;spreadangle=0;color={[1]=29;[2]=138;[3]=255;};
 rate=10;rotspeed="0";transparency="1";orientation="FacingCamera";lifetime="3,6";speed="23.391145706176758";rotation="0";size="0.42146214842796326,0";texture="rbxassetid://12159555294";};
 shape="Block";texture="Plastic";transparency=1;name="1";position={[1]=123.19064331054688;[2]=12.2254638671875;[3]=152.07736206054688;};
 locked=false;cframe={[1]=123.19064331054688;[2]=12.2254638671875;[3]=152.07736206054688;[4]=1;[5]=0;[6]=0;[7]=0;[8]=0.9553756713867188;[9]=-0.29539361596107483;[10]=0;[11]=0.29539361596107483;[12]=0.9553756713867188;};
@@ -35,7 +35,7 @@ cancollide=true;size={[1]=10.396064758300781;[2]=2.5990161895751953;[3]=5.198032
 reflectance=0;particle2={lockedtopart=true;acceleration=-0;spreadangle=0;color={[1]=255;[2]=100;[3]=28;};
 rate=2.5;rotspeed="0";transparency="1";orientation="FacingCamera";lifetime="1";speed="0";rotation="0";size="2.5990161895751953,7.797048568725586";texture="rbxassetid://14590086212";};
 color={[1]=163.00000548362732;[2]=162.00000554323196;[3]=165.00000536441803;};
-anchored=false;particle={lockedtopart=true;acceleration=-1.2995080947875977;spreadangle=0;color={[1]=29;[2]=138;[3]=255;};
+anchored=true;particle={lockedtopart=true;acceleration=-1.2995080947875977;spreadangle=0;color={[1]=29;[2]=138;[3]=255;};
 rate=10;rotspeed="0";transparency="1";orientation="FacingCamera";lifetime="3,6";speed="23.391145706176758";rotation="0";size="0.42146214842796326,0";texture="rbxassetid://12159555294";};
 shape="Block";texture="Plastic";transparency=1;name="2";position={[1]=73.80935668945312;[2]=10.667518615722656;[3]=165.91461181640625;};
 locked=false;cframe={[1]=73.80935668945312;[2]=10.667518615722656;[3]=165.91461181640625;[4]=1;[5]=0;[6]=0;[7]=0;[8]=0.9553756713867188;[9]=-0.29539361596107483;[10]=0;[11]=0.29539361596107483;[12]=0.9553756713867188;};
